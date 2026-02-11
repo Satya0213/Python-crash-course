@@ -1,4 +1,4 @@
-name = "\tRutuja Shinde  "
+name = "\tSatyajeet Ghuge  "
 print(name)
 print(name.lstrip())
 print(name.rstrip())
