@@ -1,4 +1,4 @@
-guest_list = ['Rutuja Shinde', 'Harsh Pawar', 'Shivtej Thorat']
+guest_list = ['Aaishwarya Ghuge', 'Harsh Pawar', 'Shivtej Thorat']
 print(f'\nOld guest list: {guest_list[0]}, {guest_list[1]}, {guest_list[2]}')
 print(f"\nUnfortunately, {guest_list[-1]} can't make it to dinner.")
 

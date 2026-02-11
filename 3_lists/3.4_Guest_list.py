@@ -3,7 +3,7 @@
 # invite to dinner. Then use your list to print a message to each person, inviting 
 # them to dinner
 
-guest_list = ['Rutuja Shinde', 'Harsh Pawar', 'Shivtej Thorat']
+guest_list = ['Aaishwarya Ghuge', 'Harsh Pawar', 'Shivtej Thorat']
 print(f"Hey {guest_list[0]}, \nLets have dinner together soon! can't wait to catch up.")
 print(f"Hey {guest_list[1]}, \nLets have dinner together soon! can't wait to catch up.")
 print(f"Hey {guest_list[2]}, \nLets have dinner together soon! can't wait to catch up.")

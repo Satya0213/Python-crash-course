@@ -1,4 +1,4 @@
-guest_list = ['Rutuja Shinde', 'Harsh Pawar', 'Shivtej Thorat']
+guest_list = ['Aaishwarya Ghuge', 'Harsh Pawar', 'Shivtej Thorat']
 guest_list[-1] = 'Shivam Tarate'    #replaces last item in list
 guest_list.insert(0, 'Parth Kulkarni')  #adds new item to the beginning of list
 guest_list.insert(2, 'Pankaj Sakhre')   #adds new item to the 3rd position of list

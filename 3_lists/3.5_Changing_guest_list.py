@@ -9,7 +9,7 @@
 #your list.
 
 print('--method 1--')
-guest_list = ['Rutuja Shinde', 'Harsh Pawar', 'Shivtej Thorat']
+guest_list = ['Aaishwarya Ghuge', 'Harsh Pawar', 'Shivtej Thorat']
 print(f"\nHey {guest_list[0]}, \nLets have dinner together soon! can't wait to catch up.")
 print(f"\nHey {guest_list[1]}, \nLets have dinner together soon! can't wait to catch up.")
 print(f"\nHey {guest_list[2]}, \nLets have dinner together soon! can't wait to catch up.")
@@ -23,7 +23,7 @@ print(f"\nHey {guest_list[2]}, \nLets have dinner together soon! can't wait to c
 
 #method 2
 print("\n---method 2---")
-guest_list = ['Rutuja Shinde', 'Harsh Pawar', 'Shivtej Thorat']
+guest_list = ['Aaishwarya Ghuge', 'Harsh Pawar', 'Shivtej Thorat']
 print(f"\nHey {guest_list[0]}, \nLets have dinner together soon! can't wait to catch up.")
 print(f"\nHey {guest_list[1]}, \nLets have dinner together soon! can't wait to catch up.")
 print(f"\nHey {guest_list[2]}, \nLets have dinner together soon! can't wait to catch up.")
