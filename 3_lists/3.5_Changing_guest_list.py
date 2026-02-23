@@ -33,3 +33,26 @@ guest_list[-1] = 'Shivam Tarate'    #replaces last item in list
 print(f"\nHey {guest_list[0]}, \nLets have dinner together soon! can't wait to catch up.")
 print(f"\nHey {guest_list[1]}, \nLets have dinner together soon! can't wait to catch up.")
 print(f"\nHey {guest_list[2]}, \nLets have dinner together soon! can't wait to catch up.")
+
+#efficient way
+guests = ["Albert Einstein", "Cleopatra", "Leonardo da Vinci", "Marie Curie"]
+
+print("--- First Invitations ---\n")
+for guest in guests:
+    print(f"Dear {guest}, I would be honored if you joined me for dinner this Saturday evening. Hope to see you there!")
+
+# Exercise 3-5: Changing Guest List
+print("\n--- Guest Change Notice ---\n")
+
+cancelled_guest = "Leonardo da Vinci"
+print(f"Unfortunately, {cancelled_guest} is unable to attend dinner.")
+
+# Replace the guest who can't make it
+new_guest = "Nikola Tesla"
+guests[guests.index(cancelled_guest)] = new_guest
+
+print(f"\n{new_guest} has been invited in their place!")
+
+print("\n--- Updated Invitations ---\n")
+for guest in guests:
+    print(f"Dear {guest}, I would be honored if you joined me for dinner this Saturday evening. Hope to see you there!")
