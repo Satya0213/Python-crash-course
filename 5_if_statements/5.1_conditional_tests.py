@@ -22,7 +22,7 @@ age_m = 22          #age of man
 age_w = 20          #age of woman
 print('Is age_m >= 21 and age_w >=18? I predict True')
 print((age_m >= 21) and (age_w >=18))
-print('You can marry.')
+print('Yes this couple can marry.')
 
 age_m = 48
 age_w = 17

@@ -3,7 +3,7 @@ my_name = 'Satyajeet'
 
 #testes using lower() method
 print(my_name.lower() == 'satyajeet')  #ture
-print(my_name.lower() != 'satyajeet')    #false
+print(my_name.lower() != 'satyajeet')  #false
 
 print(my_name == 'satyjeet')            #false
 print(my_name == 'aaishwarya')          #false

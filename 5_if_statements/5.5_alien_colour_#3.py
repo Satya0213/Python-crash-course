@@ -7,7 +7,6 @@ elif alien == 'yellow':
     points = 10
 else:
     points = 15
-
 print (f'Player just earned {points}.')
 
 #alien colour is yellow
@@ -19,7 +18,6 @@ elif alien == 'yellow':
     points = 10
 else:
     points = 15
-
 print(f'Player just earned {points}.')
 
 #alien colour is green
@@ -31,5 +29,4 @@ elif alien == 'yellow':
     points = 10
 else:
     points = 15
-
 print(f'Player just earned {points}')
